@@ -61,7 +61,7 @@
 
 
 
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=false&theme=tokyonight" />
+<img align="center" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=false&theme=tokyonight" />
 
 
 
