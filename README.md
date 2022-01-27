@@ -10,10 +10,12 @@
 - 🥅 2022 Goal: Reach 1000 Commits
 - ⚡ Fun fact: I have no live
 
-
+<center>
 <img style="text-align: center; width: 95%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <img style="text-align: center; width: 95%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight&hide_border=true" />
+
+</center>
 
 
 
