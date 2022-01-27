@@ -77,8 +77,8 @@
 
 <img align="center" width="100%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=false&theme=tokyonight" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n-kodem&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n-kodem&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/n.kodem
 [link]: https://github.com/n-kodem?tab=repositories
