@@ -51,6 +51,6 @@
 
 </details>
 
--->>
+-->
 
 [instagram]: https://www.instagram.com/n.kodem
