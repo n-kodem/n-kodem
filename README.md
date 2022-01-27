@@ -54,3 +54,26 @@
 -->
 
 [instagram]: https://www.instagram.com/n.kodem
+
+
+
+### GameDev Tools
+[![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)][link] [![CSHARP](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)][link]
+
+#### Mobile
+[![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B
+)][link]
+
+#### Web Tools
+[![HTML](https://img.shields.io/badge/-HTML-fd822b?style=for-the-badge&labelColor=black&logo=html5&logoColor=fd822b)][link] [![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link] [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)][link] [![EcmaJs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)][link] <br>[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=black&logoColor=007ACC)][link] [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)][link]
+
+<br/>
+<div>
+    <a href="https://github.com/dansf?tab=repositories ">
+    	<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=n-kodem&show_icons=true&theme=tokyonight">
+        <img height="180em" width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight">
+    </a>
+</div>
+
+[link]: https://github.com/n-kodem?tab=repositories
+[email]: (mailto:n.reszkax@gmail.com)
