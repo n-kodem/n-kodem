@@ -8,10 +8,6 @@
 - 🥅 2022 Goal: Reach 1000 Commits
 - ⚡ Fun fact: I have no live
 
-### Connect with me:
-
-[![INSTAGRAM](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=black&logo=Instagram&logoColor=E4405F)][instagram]
-
 ## Languages and Tools:
 
 ### General
