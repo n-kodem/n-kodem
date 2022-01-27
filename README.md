@@ -65,19 +65,11 @@
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end--></summary>
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 27th, 2022, 8:04:13 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Mauzerov/hccp](https://github.com/Mauzerov/hccp)
-2. 🔱 Forked [n-kodem/codeSTACKr](https://github.com/n-kodem/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 🔱 Forked [n-kodem/text2sql-data](https://github.com/n-kodem/text2sql-data) from [jkkummerfeld/text2sql-data](https://github.com/jkkummerfeld/text2sql-data)
-4. ⭐ Starred [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod)
-5. ⭐ Starred [ExtraCrafTX/GeneratorFabricMod](https://github.com/ExtraCrafTX/GeneratorFabricMod)
-<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
 
@@ -85,10 +77,10 @@ Last Updated: Thursday, January 27th, 2022, 8:04:13 PM
 
 
 
-<img align="center" width="100%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=false&theme=tokyonight" />
+<img align="center" width="100%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="center" width="100%" alt="n.kodem's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=n-kodem&theme=tokyonight&hide_border=true" />
+<img align="center" width="100%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight&hide_border=true" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n-kodem&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/n.kodem
 [link]: https://github.com/n-kodem?tab=repositories
