@@ -52,6 +52,11 @@
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=Visual%20Studio%20Code&logoColor=007ACC)][link]
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&labelColor=black&logo=Visual%20Studio&logoColor=5C2D91)][link]
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&labelColor=black&logo=Android%20Studio&logoColor=3DDC84)][link]
+[![Intellij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&labelColor=black&logo=IntelliJ%20IDEA&logoColor=666666)][link]
+[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&labelColor=black&logo=PyCharm&logoColor=666666)][link]
+[![Rider](https://img.shields.io/badge/-Rider-000000?style=for-the-badge&labelColor=black&logo=Rider&logoColor=666666)][link]
+[![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=for-the-badge&labelColor=black&logo=PhpStorm&logoColor=666666)][link]
+[![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&labelColor=black&logo=WebStorm&logoColor=666666)][link]
 
 <br />
 <br />
@@ -72,8 +77,8 @@
 
 <img align="center" width="100%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=false&theme=tokyonight" />
 
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n-kodem&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/n.kodem
 [link]: https://github.com/n-kodem?tab=repositories
