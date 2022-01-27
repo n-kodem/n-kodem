@@ -4,7 +4,14 @@ on:
   schedule:
     - cron: '*/1 * * * *'
   workflow_dispatch:
+    branches:
+      - '*'
   watch:
+    branches:
+      - '*'
+  push:
+    branches:
+      - '*'
 jobs:
   build:
     runs-on: ubuntu-latest
