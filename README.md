@@ -1,5 +1,7 @@
 ### Hi there, I'm Nikodem - aka n.kodem 👋 
 
+<div style="position: relative;float: left; display: inline-block;width: 50%">
+
 ## I'm a Student!!
 
 - 🔭 I'm actually working on pixel like game called "color wars"!
@@ -8,7 +10,15 @@
 - 🥅 2022 Goal: Reach 1000 Commits
 - ⚡ Fun fact: I have no live
 
-## Languages and Tools:
+</div>
+<div style="position: relative;float: left; display: inline-block; clear: right; width: 50%">
+<br />
+<img style="width: auto; height: auto; align-self: flex-start" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+
+</div>
+
+<br>
+<div style="position: relative; clear: both">
 
 ### General
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=Python&logoColor=3776AB)][link]
@@ -30,11 +40,11 @@
 
 
 ### Web Development
-[![HTML5](https://img.shields.io/badge/-HTML5-fd822b?style=for-the-badge&labelColor=black&logo=html5&logoColor=fd822b)][link] 
-[![CSS](https://img.shields.io/badge/-CSS3-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link] 
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)][link] 
+[![HTML5](https://img.shields.io/badge/-HTML5-fd822b?style=for-the-badge&labelColor=black&logo=html5&logoColor=fd822b)][link]
+[![CSS](https://img.shields.io/badge/-CSS3-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link]
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)][link]
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)][link]
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=black&logoColor=007ACC)][link] 
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=black&logoColor=007ACC)][link]
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)][link]
 [![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&labelColor=black&logo=phpMyAdmin&logoColor=6C78AF)][link]
 [![Wordpress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&labelColor=black&logo=WordPress&logoColor=21759B)][link]
@@ -58,11 +68,14 @@
 [![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=for-the-badge&labelColor=black&logo=PhpStorm&logoColor=666666)][link]
 [![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&labelColor=black&logo=WebStorm&logoColor=666666)][link]
 
-<br />
-<br />
+</div>
+## Languages and Tools:
+
 
 ---
 
+<img align="center" width="100%" alt="n.kodem's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=n-kodem&theme=tokyonight&hide_border=true" />
+<img align="center" width="100%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight&hide_border=true" />
 
 <details>
   <summary>:zap: Recent GitHub Activity <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end--></summary>
@@ -81,13 +94,6 @@ Last Updated: Thursday, January 27th, 2022, 8:10:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
-
-
-
-<img align="center" width="100%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-<img align="center" width="100%" alt="n.kodem's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=n-kodem&theme=tokyonight&hide_border=true" />
-<img align="center" width="100%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight&hide_border=true" />
-
 
 [instagram]: https://www.instagram.com/n.kodem
 [link]: https://github.com/n-kodem?tab=repositories
