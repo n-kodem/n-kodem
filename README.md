@@ -29,6 +29,21 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+
+<br />
+
+### GameDev Tools
+[![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)][link] [![CSHARP](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)][link]
+
+
+### Mobile
+[![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B
+)][link]
+
+
+### Web Tools
+[![HTML](https://img.shields.io/badge/-HTML-fd822b?style=for-the-badge&labelColor=black&logo=html5&logoColor=fd822b)][link] [![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link] [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)][link] [![EcmaJs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)][link] <br>[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=black&logoColor=007ACC)][link] [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)][link]
+
 <br />
 <br />
 
@@ -44,12 +59,10 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=false&theme=tokyonight" />
 
-</details>
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=false&theme=tokyonight" />
+
 
 
 
@@ -57,17 +70,8 @@
 
 
 
-### GameDev Tools
-[![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)][link] [![CSHARP](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)][link]
 
-#### Mobile
-[![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B
-)][link]
 
-#### Web Tools
-[![HTML](https://img.shields.io/badge/-HTML-fd822b?style=for-the-badge&labelColor=black&logo=html5&logoColor=fd822b)][link] [![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link] [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)][link] [![EcmaJs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)][link] <br>[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=black&logoColor=007ACC)][link] [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)][link]
-
-<br/>
 
 
 [link]: https://github.com/n-kodem?tab=repositories
