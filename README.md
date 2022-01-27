@@ -12,18 +12,13 @@
 
 [![INSTAGRAM](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=black&logo=Instagram&logoColor=E4405F)][instagram]
 
-### Languages and Tools:
-
-
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=Visual%20Studio%20Code&logoColor=007ACC)][link]
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)][link]
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=GitHub&logoColor=181717)][link]
-[![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&labelColor=black&logo=Windows%20Terminal&logoColor=4D4D4D)][link]
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&labelColor=black&logo=Visual%20Studio&logoColor=5C2D91)][link]
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&labelColor=black&logo=Android%20Studio&logoColor=3DDC84)][link]
+## Languages and Tools:
 
 ### General
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=Python&logoColor=3776AB)][link]
+[![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&labelColor=black&logo=Windows%20Terminal&logoColor=4D4D4D)][link]
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)][link]
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=GitHub&logoColor=181717)][link]
 
 ### Windows Apps Development / Game Development
 [![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=for-the-badge&labelColor=black&logo=XAML&logoColor=0C54C2)][link]
@@ -56,6 +51,11 @@
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=Microsoft%20SQL%20Server&logoColor=CC2927)][link]
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&labelColor=black&logo=SQLite&logoColor=003B57)][link]
 [![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=4479A1)][link]
+
+### Code Editors
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=Visual%20Studio%20Code&logoColor=007ACC)][link]
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&labelColor=black&logo=Visual%20Studio&logoColor=5C2D91)][link]
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&labelColor=black&logo=Android%20Studio&logoColor=3DDC84)][link]
 
 <br />
 <br />
