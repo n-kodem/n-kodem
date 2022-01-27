@@ -10,12 +10,19 @@
 - 🥅 2022 Goal: Reach 1000 Commits
 - ⚡ Fun fact: I have no live
 
+<div style="text-align: center;">
+<img style="width: 85vw;" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<img style="width: 85vw;" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
 <center>
-<img style="width: 100%;" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-</center>
+
+# Languages and Tools
 
 
-<center>
 
 ### General
 </center>
@@ -25,10 +32,10 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)][link]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=GitHub&logoColor=181717)][link]
 
-<center>
+<div style="text-align: center;">
 
 ### Windows Apps Development / Game Development
-</center>
+</div>
 
 [![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=for-the-badge&labelColor=black&logo=XAML&logoColor=0C54C2)][link]
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&labelColor=black&logo=.NET&logoColor=512BD4)][link]
@@ -38,18 +45,19 @@
 [![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)][link]
 
 
-<center>
+<div style="text-align: center;">
 
-### Mobile
-</center>
+### Mobile Development
+</div>
 
 [![KOTLIN](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=Kotlin&logoColor=7F52FF)][link]
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=Java&logoColor=007396)][link]
+[![XML](https://img.shields.io/badge/-XML-0C54C2?style=for-the-badge&labelColor=black&logo=XAML&logoColor=0C54C2)][link]
 
-<center>
+<div style="text-align: center;">
 
 ### Web Development
-</center>
+</div>
 
 [![HTML5](https://img.shields.io/badge/-HTML5-fd822b?style=for-the-badge&labelColor=black&logo=html5&logoColor=fd822b)][link]
 [![CSS](https://img.shields.io/badge/-CSS3-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link]
@@ -63,20 +71,20 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=Node.js&logoColor=339933)][link]
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=PHP&logoColor=777BB4)][link]
 
-<center>
+<div style="text-align: center;">
 
 ### Databases
-</center>
+</div>
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=PostgreSQL&logoColor=4169E1)][link]
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=Microsoft%20SQL%20Server&logoColor=CC2927)][link]
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&labelColor=black&logo=SQLite&logoColor=003B57)][link]
 [![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=4479A1)][link]
 
-<center>
+<div style="text-align: center;">
 
 ### Code Editors
-</center>
+</div>
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=Visual%20Studio%20Code&logoColor=007ACC)][link]
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&labelColor=black&logo=Visual%20Studio&logoColor=5C2D91)][link]
@@ -87,13 +95,10 @@
 [![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=for-the-badge&labelColor=black&logo=PhpStorm&logoColor=666666)][link]
 [![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&labelColor=black&logo=WebStorm&logoColor=666666)][link]
 
-## Languages and Tools:
-
 
 ---
 
-<img align="center" width="100%" alt="n.kodem's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=n-kodem&theme=tokyonight&hide_border=true" />
-<img align="center" width="100%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight&hide_border=true" />
+<img style="text-align: center" width="100%" alt="n.kodem's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=n-kodem&theme=tokyonight&hide_border=true" />
 
 <details>
   <summary>:zap: Recent GitHub Activity <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end--></summary>
