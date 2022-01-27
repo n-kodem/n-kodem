@@ -10,14 +10,17 @@
 - 🥅 2022 Goal: Reach 1000 Commits
 - ⚡ Fun fact: I have no live
 
-<div style="text-align: center;">
-<img style="width: 85vw;" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
-<img style="width: 85vw;" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight&hide_border=true" />
+<img style="text-align: center; width: 95%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
-</div>
+<img style="text-align: center; width: 95%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight&hide_border=true" />
+
+
+
+<br />
 
 ---
+
 <center>
 
 # Languages and Tools
