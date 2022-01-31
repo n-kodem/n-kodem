@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cjbarker/pyhack](https://github.com/cjbarker/pyhack)
-2. ⭐ Starred [Mauzerov/hccp](https://github.com/Mauzerov/hccp)
-3. 🔱 Forked [n-kodem/codeSTACKr](https://github.com/n-kodem/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🔱 Forked [n-kodem/text2sql-data](https://github.com/n-kodem/text2sql-data) from [jkkummerfeld/text2sql-data](https://github.com/jkkummerfeld/text2sql-data)
-5. ⭐ Starred [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod)
+1. ⭐ Starred [ping/instagram_private_api](https://github.com/ping/instagram_private_api)
+2. ⭐ Starred [cjbarker/pyhack](https://github.com/cjbarker/pyhack)
+3. ⭐ Starred [Mauzerov/hccp](https://github.com/Mauzerov/hccp)
+4. 🔱 Forked [n-kodem/codeSTACKr](https://github.com/n-kodem/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+5. 🔱 Forked [n-kodem/text2sql-data](https://github.com/n-kodem/text2sql-data) from [jkkummerfeld/text2sql-data](https://github.com/jkkummerfeld/text2sql-data)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 31st, 2022, 7:59:27 PM
+Last Updated: Monday, January 31st, 2022, 8:16:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
