@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [n-kodem/TinyAntivirus](https://github.com/n-kodem/TinyAntivirus) from [develbranch/TinyAntivirus](https://github.com/develbranch/TinyAntivirus)
-2. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
-3. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-5. ⭐ Starred [ping/instagram_private_api](https://github.com/ping/instagram_private_api)
+1. ⭐ Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+2. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+3. ⭐ Starred [pytube/pytube](https://github.com/pytube/pytube)
+4. ⭐ Starred [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+5. ⭐ Starred [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 7th, 2022, 5:59:16 PM
+Last Updated: Monday, February 7th, 2022, 6:17:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
