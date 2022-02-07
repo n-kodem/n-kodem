@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-2. ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-3. ⭐ Starred [ping/instagram_private_api](https://github.com/ping/instagram_private_api)
-4. ⭐ Starred [cjbarker/pyhack](https://github.com/cjbarker/pyhack)
-5. ⭐ Starred [Mauzerov/hccp](https://github.com/Mauzerov/hccp)
+1. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+2. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+3. ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+4. ⭐ Starred [ping/instagram_private_api](https://github.com/ping/instagram_private_api)
+5. ⭐ Starred [cjbarker/pyhack](https://github.com/cjbarker/pyhack)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 7th, 2022, 2:38:34 PM
+Last Updated: Monday, February 7th, 2022, 2:44:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
