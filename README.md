@@ -118,7 +118,7 @@
 5. ⭐ Starred [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 7th, 2022, 9:32:38 PM
+Last Updated: Monday, February 7th, 2022, 9:39:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
