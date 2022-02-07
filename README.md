@@ -118,7 +118,7 @@
 5. ⭐ Starred [ping/instagram_private_api](https://github.com/ping/instagram_private_api)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 7th, 2022, 3:46:45 PM
+Last Updated: Monday, February 7th, 2022, 3:53:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
