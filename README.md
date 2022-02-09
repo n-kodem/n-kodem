@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-2. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)
-3. ⭐ Starred [pytube/pytube](https://github.com/pytube/pytube)
-4. ⭐ Starred [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-5. ⭐ Starred [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
+1. ⭐ Starred [zardus/ctf-tools](https://github.com/zardus/ctf-tools)
+2. ⭐ Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+3. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+4. ⭐ Starred [pytube/pytube](https://github.com/pytube/pytube)
+5. ⭐ Starred [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 9th, 2022, 10:06:35 PM
+Last Updated: Wednesday, February 9th, 2022, 10:23:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
