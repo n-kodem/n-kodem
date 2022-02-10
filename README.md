@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xenris/liquid-wars-android](https://github.com/xenris/liquid-wars-android)
-2. ⭐ Starred [sys41x4/CTFLearn](https://github.com/sys41x4/CTFLearn)
-3. ⭐ Starred [zardus/ctf-tools](https://github.com/zardus/ctf-tools)
-4. ⭐ Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-5. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)
+1. ⭐ Starred [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
+2. ⭐ Starred [xenris/liquid-wars-android](https://github.com/xenris/liquid-wars-android)
+3. ⭐ Starred [sys41x4/CTFLearn](https://github.com/sys41x4/CTFLearn)
+4. ⭐ Starred [zardus/ctf-tools](https://github.com/zardus/ctf-tools)
+5. ⭐ Starred [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 10th, 2022, 8:31:57 PM
+Last Updated: Thursday, February 10th, 2022, 8:39:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
