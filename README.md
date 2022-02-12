@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
-2. ⭐ Starred [processhacker/processhacker](https://github.com/processhacker/processhacker)
-3. ⭐ Starred [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
-4. ⭐ Starred [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
-5. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+1. ⭐ Starred [SickChill/SickChill](https://github.com/SickChill/SickChill)
+2. ⭐ Starred [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+3. ⭐ Starred [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf)
+4. ⭐ Starred [cuberite/cuberite](https://github.com/cuberite/cuberite)
+5. ⭐ Starred [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 12th, 2022, 10:11:19 PM
+Last Updated: Saturday, February 12th, 2022, 10:25:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
