@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-2. ⭐ Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)
-3. ⭐ Starred [agalwood/Motrix](https://github.com/agalwood/Motrix)
-4. ⭐ Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
-5. ⭐ Starred [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
+1. ⭐ Starred [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
+2. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+3. ⭐ Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)
+4. ⭐ Starred [agalwood/Motrix](https://github.com/agalwood/Motrix)
+5. ⭐ Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 12th, 2022, 9:51:30 PM
+Last Updated: Saturday, February 12th, 2022, 9:58:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
