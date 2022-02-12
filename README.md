@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [agalwood/Motrix](https://github.com/agalwood/Motrix)
-2. ⭐ Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
-3. ⭐ Starred [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-4. ⭐ Starred [xenris/liquid-wars-android](https://github.com/xenris/liquid-wars-android)
-5. ⭐ Starred [sys41x4/CTFLearn](https://github.com/sys41x4/CTFLearn)
+1. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+2. ⭐ Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)
+3. ⭐ Starred [agalwood/Motrix](https://github.com/agalwood/Motrix)
+4. ⭐ Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+5. ⭐ Starred [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 12th, 2022, 9:45:07 PM
+Last Updated: Saturday, February 12th, 2022, 9:51:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
