@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy)
-2. ⭐ Starred [SickChill/SickChill](https://github.com/SickChill/SickChill)
-3. ⭐ Starred [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
-4. ⭐ Starred [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf)
-5. ⭐ Starred [cuberite/cuberite](https://github.com/cuberite/cuberite)
+1. ⭐ Starred [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)
+2. ❗️ Opened issue [#1](https://github.com/Mauzerov/Minecraft-Plugins/issues/1) in [Mauzerov/Minecraft-Plugins](https://github.com/Mauzerov/Minecraft-Plugins)
+3. ⭐ Starred [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy)
+4. ⭐ Starred [SickChill/SickChill](https://github.com/SickChill/SickChill)
+5. ⭐ Starred [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 14th, 2022, 9:11:37 PM
+Last Updated: Monday, February 14th, 2022, 9:20:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
