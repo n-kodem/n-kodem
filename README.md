@@ -118,7 +118,7 @@
 5. ⭐ Starred [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 16th, 2022, 8:52:43 PM
+Last Updated: Wednesday, February 16th, 2022, 8:59:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
