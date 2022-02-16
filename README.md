@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)
-2. ❗️ Opened issue [#1](https://github.com/Mauzerov/Minecraft-Plugins/issues/1) in [Mauzerov/Minecraft-Plugins](https://github.com/Mauzerov/Minecraft-Plugins)
-3. ⭐ Starred [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy)
-4. ⭐ Starred [SickChill/SickChill](https://github.com/SickChill/SickChill)
-5. ⭐ Starred [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+1. ⭐ Starred [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
+2. ⭐ Starred [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone)
+3. ⭐ Starred [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+4. ⭐ Starred [ckjbug/Hacking](https://github.com/ckjbug/Hacking)
+5. ⭐ Starred [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 16th, 2022, 10:00:05 PM
+Last Updated: Wednesday, February 16th, 2022, 10:15:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
