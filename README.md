@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
-2. ⭐ Starred [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone)
-3. ⭐ Starred [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
-4. ⭐ Starred [ckjbug/Hacking](https://github.com/ckjbug/Hacking)
-5. ⭐ Starred [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)
+1. ❗️ Opened issue [#2](https://github.com/Mauzerov/Minecraft-Plugins/issues/2) in [Mauzerov/Minecraft-Plugins](https://github.com/Mauzerov/Minecraft-Plugins)
+2. ⭐ Starred [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
+3. ⭐ Starred [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone)
+4. ⭐ Starred [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+5. ⭐ Starred [ckjbug/Hacking](https://github.com/ckjbug/Hacking)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 17th, 2022, 11:59:21 AM
+Last Updated: Thursday, February 17th, 2022, 12:25:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
