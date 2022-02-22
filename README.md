@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2](https://github.com/Mauzerov/Minecraft-Plugins/issues/2) in [Mauzerov/Minecraft-Plugins](https://github.com/Mauzerov/Minecraft-Plugins)
-2. ⭐ Starred [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
-3. ⭐ Starred [DarthTon/Blackbone](https://github.com/DarthTon/Blackbone)
-4. ⭐ Starred [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
-5. ⭐ Starred [ckjbug/Hacking](https://github.com/ckjbug/Hacking)
+1. ⭐ Starred [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools)
+2. ⭐ Starred [Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox)
+3. ⭐ Starred [mishakorzik/AdminHack](https://github.com/mishakorzik/AdminHack)
+4. ⭐ Starred [jaykali/lockphish](https://github.com/jaykali/lockphish)
+5. ❗️ Opened issue [#2](https://github.com/Mauzerov/Minecraft-Plugins/issues/2) in [Mauzerov/Minecraft-Plugins](https://github.com/Mauzerov/Minecraft-Plugins)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 22nd, 2022, 5:45:50 PM
+Last Updated: Tuesday, February 22nd, 2022, 5:52:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
