@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools)
-2. ⭐ Starred [Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox)
-3. ⭐ Starred [mishakorzik/AdminHack](https://github.com/mishakorzik/AdminHack)
-4. ⭐ Starred [jaykali/lockphish](https://github.com/jaykali/lockphish)
-5. ❗️ Opened issue [#2](https://github.com/Mauzerov/Minecraft-Plugins/issues/2) in [Mauzerov/Minecraft-Plugins](https://github.com/Mauzerov/Minecraft-Plugins)
+1. ⭐ Starred [mIcHyAmRaNe/okadminfinder3](https://github.com/mIcHyAmRaNe/okadminfinder3)
+2. ⭐ Starred [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools)
+3. ⭐ Starred [Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox)
+4. ⭐ Starred [mishakorzik/AdminHack](https://github.com/mishakorzik/AdminHack)
+5. ⭐ Starred [jaykali/lockphish](https://github.com/jaykali/lockphish)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 25th, 2022, 6:19:38 PM
+Last Updated: Friday, February 25th, 2022, 6:37:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
