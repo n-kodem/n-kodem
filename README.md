@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mIcHyAmRaNe/okadminfinder3](https://github.com/mIcHyAmRaNe/okadminfinder3)
-2. ⭐ Starred [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools)
-3. ⭐ Starred [Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox)
-4. ⭐ Starred [mishakorzik/AdminHack](https://github.com/mishakorzik/AdminHack)
-5. ⭐ Starred [jaykali/lockphish](https://github.com/jaykali/lockphish)
+1. ⭐ Starred [palahsu/MBomb](https://github.com/palahsu/MBomb)
+2. ⭐ Starred [mIcHyAmRaNe/okadminfinder3](https://github.com/mIcHyAmRaNe/okadminfinder3)
+3. ⭐ Starred [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools)
+4. ⭐ Starred [Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox)
+5. ⭐ Starred [mishakorzik/AdminHack](https://github.com/mishakorzik/AdminHack)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 25th, 2022, 11:24:59 PM
+Last Updated: Friday, February 25th, 2022, 11:33:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
