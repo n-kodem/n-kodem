@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Psycoguana/SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader)
-2. ⭐ Starred [Hackertrackersj/Instabruteforce](https://github.com/Hackertrackersj/Instabruteforce)
-3. ⭐ Starred [palahsu/MBomb](https://github.com/palahsu/MBomb)
-4. ⭐ Starred [mIcHyAmRaNe/okadminfinder3](https://github.com/mIcHyAmRaNe/okadminfinder3)
-5. ⭐ Starred [hacktoolspack/hack-tools](https://github.com/hacktoolspack/hack-tools)
+1. ❗️ Opened issue [#3](https://github.com/makubas/better-ladders/issues/3) in [makubas/better-ladders](https://github.com/makubas/better-ladders)
+2. ⭐ Starred [Psycoguana/SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader)
+3. ⭐ Starred [Hackertrackersj/Instabruteforce](https://github.com/Hackertrackersj/Instabruteforce)
+4. ⭐ Starred [palahsu/MBomb](https://github.com/palahsu/MBomb)
+5. ⭐ Starred [mIcHyAmRaNe/okadminfinder3](https://github.com/mIcHyAmRaNe/okadminfinder3)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 27th, 2022, 8:17:15 PM
+Last Updated: Sunday, February 27th, 2022, 8:30:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
