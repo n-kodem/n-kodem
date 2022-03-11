@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vadiole/Boids2D](https://github.com/vadiole/Boids2D)
-2. ⭐ Starred [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
-3. 💬 Commented on [#3](https://github.com/makubas/better-ladders/issues/3#issuecomment-1055550135) in [makubas/better-ladders](https://github.com/makubas/better-ladders)
-4. ❗️ Opened issue [#3](https://github.com/makubas/better-ladders/issues/3) in [makubas/better-ladders](https://github.com/makubas/better-ladders)
-5. ⭐ Starred [Psycoguana/SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader)
+1. ⭐ Starred [MHProDev/MHDDoS](https://github.com/MHProDev/MHDDoS)
+2. ⭐ Starred [vadiole/Boids2D](https://github.com/vadiole/Boids2D)
+3. ⭐ Starred [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
+4. 💬 Commented on [#3](https://github.com/makubas/better-ladders/issues/3#issuecomment-1055550135) in [makubas/better-ladders](https://github.com/makubas/better-ladders)
+5. ❗️ Opened issue [#3](https://github.com/makubas/better-ladders/issues/3) in [makubas/better-ladders](https://github.com/makubas/better-ladders)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 11th, 2022, 7:35:56 AM
+Last Updated: Friday, March 11th, 2022, 7:42:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
