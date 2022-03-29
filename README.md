@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oxen-io/session-android](https://github.com/oxen-io/session-android)
-2. ⭐ Starred [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe)
-3. ⭐ Starred [MHProDev/MHDDoS](https://github.com/MHProDev/MHDDoS)
-4. ⭐ Starred [vadiole/Boids2D](https://github.com/vadiole/Boids2D)
-5. ⭐ Starred [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
+1. ⭐ Starred [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
+2. ⭐ Starred [trailofbits/algo](https://github.com/trailofbits/algo)
+3. ⭐ Starred [mrd0x/BITB](https://github.com/mrd0x/BITB)
+4. ⭐ Starred [github/copilot-docs](https://github.com/github/copilot-docs)
+5. ⭐ Starred [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 29th, 2022, 11:55:16 AM
+Last Updated: Tuesday, March 29th, 2022, 12:13:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
