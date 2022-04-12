@@ -118,7 +118,7 @@
 5. ⭐ Starred [github/copilot-docs](https://github.com/github/copilot-docs)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 12th, 2022, 6:31:48 PM
+Last Updated: Tuesday, April 12th, 2022, 6:47:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
