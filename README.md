@@ -118,7 +118,7 @@
 5. ⭐ Starred [trailofbits/algo](https://github.com/trailofbits/algo)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 6th, 2022, 5:10:20 PM
+Last Updated: Wednesday, July 6th, 2022, 5:33:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
