@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)
-2. 📔 Created new repository [n-kodem/JsExtensionTemplate](https://github.com/n-kodem/JsExtensionTemplate)
-3. 🔱 Forked [n-kodem/Terraria-Source-Code](https://github.com/n-kodem/Terraria-Source-Code) from [MikeyIsBaeYT/Terraria-Source-Code](https://github.com/MikeyIsBaeYT/Terraria-Source-Code)
-4. ⭐ Starred [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
-5. ⭐ Starred [trailofbits/algo](https://github.com/trailofbits/algo)
+1. ✌️ Released [](https://github.com/n-kodem/revanced-apk/releases/tag/base) in [n-kodem/revanced-apk](https://github.com/n-kodem/revanced-apk)
+2. 🔱 Forked [n-kodem/revanced-apk](https://github.com/n-kodem/revanced-apk) from [LolekLiam/revanced-apk](https://github.com/LolekLiam/revanced-apk)
+3. ⭐ Starred [LolekLiam/revanced-apk](https://github.com/LolekLiam/revanced-apk)
+4. ⭐ Starred [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)
+5. 📔 Created new repository [n-kodem/JsExtensionTemplate](https://github.com/n-kodem/JsExtensionTemplate)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 14th, 2022, 1:25:59 AM
+Last Updated: Thursday, July 14th, 2022, 3:30:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
