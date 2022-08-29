@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar)
-2. ✌️ Released [](https://github.com/n-kodem/revanced-apk/releases/tag/base) in [n-kodem/revanced-apk](https://github.com/n-kodem/revanced-apk)
-3. 🔱 Forked [n-kodem/revanced-apk](https://github.com/n-kodem/revanced-apk) from [LolekLiam/revanced-apk](https://github.com/LolekLiam/revanced-apk)
-4. ⭐ Starred [LolekLiam/revanced-apk](https://github.com/LolekLiam/revanced-apk)
-5. ⭐ Starred [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)
+1. ⭐ Starred [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft)
+2. ⭐ Starred [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar)
+3. ✌️ Released [](https://github.com/n-kodem/revanced-apk/releases/tag/base) in [n-kodem/revanced-apk](https://github.com/n-kodem/revanced-apk)
+4. 🔱 Forked [n-kodem/revanced-apk](https://github.com/n-kodem/revanced-apk) from [LolekLiam/revanced-apk](https://github.com/LolekLiam/revanced-apk)
+5. ⭐ Starred [LolekLiam/revanced-apk](https://github.com/LolekLiam/revanced-apk)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 29th, 2022, 5:51:09 PM
+Last Updated: Monday, August 29th, 2022, 5:57:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
