@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
-2. ❗️ Opened issue [#1926](https://github.com/rstacruz/cheatsheets/issues/1926) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
-3. ⭐ Starred [fishcute/Celestial](https://github.com/fishcute/Celestial)
-4. ✌️ Released [graph app](https://github.com/n-kodem/Graph/releases/tag/1.1.0) in [n-kodem/Graph](https://github.com/n-kodem/Graph)
-5. ⭐ Starred [rixon-cochi/Hacker](https://github.com/rixon-cochi/Hacker)
+1. ✌️ Released [ProgressSort v1.0.0](https://github.com/n-kodem/ProgressSort/releases/tag/v1.0.0) in [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
+2. 📔 Created new repository [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
+3. ❗️ Opened issue [#1926](https://github.com/rstacruz/cheatsheets/issues/1926) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+4. ⭐ Starred [fishcute/Celestial](https://github.com/fishcute/Celestial)
+5. ✌️ Released [graph app](https://github.com/n-kodem/Graph/releases/tag/1.1.0) in [n-kodem/Graph](https://github.com/n-kodem/Graph)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 6th, 2023, 2:24:25 PM
+Last Updated: Friday, January 6th, 2023, 2:31:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
