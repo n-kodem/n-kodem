@@ -7,7 +7,7 @@
 - 🔭 I'm actually working on pixel like game called "color wars"!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goal: Reach 1000 Commits
+- 🥅 2023 Goal: Reach 1000 Commits
 - 🤡 Fun fact: I have no live
 
 <center>
