@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [ProgressSort v1.0.0](https://github.com/n-kodem/ProgressSort/releases/tag/v1.0.0) in [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
-2. 📔 Created new repository [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
-3. ❗️ Opened issue [#1926](https://github.com/rstacruz/cheatsheets/issues/1926) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
-4. ⭐ Starred [fishcute/Celestial](https://github.com/fishcute/Celestial)
-5. ✌️ Released [graph app](https://github.com/n-kodem/Graph/releases/tag/1.1.0) in [n-kodem/Graph](https://github.com/n-kodem/Graph)
+1. ⭐ Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+2. ✌️ Released [ProgressSort v1.0.0](https://github.com/n-kodem/ProgressSort/releases/tag/v1.0.0) in [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
+3. 📔 Created new repository [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
+4. ❗️ Opened issue [#1926](https://github.com/rstacruz/cheatsheets/issues/1926) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+5. ⭐ Starred [fishcute/Celestial](https://github.com/fishcute/Celestial)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 23rd, 2023, 10:17:25 AM
+Last Updated: Monday, January 23rd, 2023, 10:31:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
