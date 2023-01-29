@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
-2. ✌️ Released [ProgressSort v1.0.0](https://github.com/n-kodem/ProgressSort/releases/tag/v1.0.0) in [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
-3. 📔 Created new repository [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
-4. ❗️ Opened issue [#1926](https://github.com/rstacruz/cheatsheets/issues/1926) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
-5. ⭐ Starred [fishcute/Celestial](https://github.com/fishcute/Celestial)
+1. ⭐ Starred [SkyblockClient/SkyblockClient](https://github.com/SkyblockClient/SkyblockClient)
+2. ⭐ Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+3. ✌️ Released [ProgressSort v1.0.0](https://github.com/n-kodem/ProgressSort/releases/tag/v1.0.0) in [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
+4. 📔 Created new repository [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
+5. ❗️ Opened issue [#1926](https://github.com/rstacruz/cheatsheets/issues/1926) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 29th, 2023, 8:51:06 AM
+Last Updated: Sunday, January 29th, 2023, 8:57:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
