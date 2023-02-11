@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aemkei/jsfuck](https://github.com/aemkei/jsfuck)
-2. ⭐ Starred [SkyblockClient/SkyblockClient](https://github.com/SkyblockClient/SkyblockClient)
-3. ⭐ Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
-4. ✌️ Released [ProgressSort v1.0.0](https://github.com/n-kodem/ProgressSort/releases/tag/v1.0.0) in [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
-5. 📔 Created new repository [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
+1. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
+2. ⭐ Starred [aemkei/jsfuck](https://github.com/aemkei/jsfuck)
+3. ⭐ Starred [SkyblockClient/SkyblockClient](https://github.com/SkyblockClient/SkyblockClient)
+4. ⭐ Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+5. ✌️ Released [ProgressSort v1.0.0](https://github.com/n-kodem/ProgressSort/releases/tag/v1.0.0) in [n-kodem/ProgressSort](https://github.com/n-kodem/ProgressSort)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 11th, 2023, 4:07:20 AM
+Last Updated: Saturday, February 11th, 2023, 4:27:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
