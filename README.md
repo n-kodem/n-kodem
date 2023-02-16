@@ -118,7 +118,7 @@
 5. ⭐ Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 16th, 2023, 8:29:36 AM
+Last Updated: Thursday, February 16th, 2023, 8:41:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
