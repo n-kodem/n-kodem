@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [n-kodem/c2o-installer-repo](https://github.com/n-kodem/c2o-installer-repo)
-2. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
-3. ⭐ Starred [aemkei/jsfuck](https://github.com/aemkei/jsfuck)
-4. ⭐ Starred [SkyblockClient/SkyblockClient](https://github.com/SkyblockClient/SkyblockClient)
-5. ⭐ Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+1. ⭐ Starred [govolution/avet](https://github.com/govolution/avet)
+2. 📔 Created new repository [n-kodem/c2o-installer-repo](https://github.com/n-kodem/c2o-installer-repo)
+3. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
+4. ⭐ Starred [aemkei/jsfuck](https://github.com/aemkei/jsfuck)
+5. ⭐ Starred [SkyblockClient/SkyblockClient](https://github.com/SkyblockClient/SkyblockClient)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 19th, 2023, 2:09:10 AM
+Last Updated: Sunday, February 19th, 2023, 2:54:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
