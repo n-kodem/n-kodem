@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
-2. 🔱 Forked [n-kodem/MusicBot](https://github.com/n-kodem/MusicBot) from [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot)
-3. ⭐ Starred [govolution/avet](https://github.com/govolution/avet)
-4. 📔 Created new repository [n-kodem/c2o-installer-repo](https://github.com/n-kodem/c2o-installer-repo)
-5. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
+1. ⭐ Starred [Datalux/Osintgram](https://github.com/Datalux/Osintgram)
+2. ⭐ Starred [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
+3. 🔱 Forked [n-kodem/MusicBot](https://github.com/n-kodem/MusicBot) from [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot)
+4. ⭐ Starred [govolution/avet](https://github.com/govolution/avet)
+5. 📔 Created new repository [n-kodem/c2o-installer-repo](https://github.com/n-kodem/c2o-installer-repo)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 27th, 2023, 7:35:17 PM
+Last Updated: Monday, March 27th, 2023, 7:41:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
