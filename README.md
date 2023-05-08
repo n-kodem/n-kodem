@@ -118,7 +118,7 @@
 5. ⭐ Starred [Datalux/Osintgram](https://github.com/Datalux/Osintgram)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 8th, 2023, 9:25:29 PM
+Last Updated: Monday, May 8th, 2023, 9:32:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
