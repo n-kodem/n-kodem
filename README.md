@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
-2. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
-3. ⭐ Starred [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
-4. ⭐ Starred [mikebpech/turbogpt.ai](https://github.com/mikebpech/turbogpt.ai)
-5. ⭐ Starred [Datalux/Osintgram](https://github.com/Datalux/Osintgram)
+1. ⭐ Starred [zyachel/quetre](https://github.com/zyachel/quetre)
+2. ⭐ Starred [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
+3. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+4. ⭐ Starred [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
+5. ⭐ Starred [mikebpech/turbogpt.ai](https://github.com/mikebpech/turbogpt.ai)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 14th, 2023, 3:33:30 PM
+Last Updated: Sunday, May 14th, 2023, 3:40:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
