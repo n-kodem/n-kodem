@@ -118,7 +118,7 @@
 5. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 26th, 2023, 11:25:25 AM
+Last Updated: Monday, June 26th, 2023, 11:32:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
