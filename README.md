@@ -111,14 +111,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy)
-2. ⭐ Starred [searxng/searxng](https://github.com/searxng/searxng)
-3. 📔 Created new repository [n-kodem/one-click-hugo-cms](https://github.com/n-kodem/one-click-hugo-cms)
-4. ⭐ Starred [abhijithwarrier/PythonChatGPT](https://github.com/abhijithwarrier/PythonChatGPT)
-5. ⭐ Starred [sqren/fb-sleep-stats](https://github.com/sqren/fb-sleep-stats)
+1. ⭐ Starred [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
+2. ⭐ Starred [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy)
+3. ⭐ Starred [searxng/searxng](https://github.com/searxng/searxng)
+4. 📔 Created new repository [n-kodem/one-click-hugo-cms](https://github.com/n-kodem/one-click-hugo-cms)
+5. ⭐ Starred [abhijithwarrier/PythonChatGPT](https://github.com/abhijithwarrier/PythonChatGPT)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 11th, 2023, 8:45:53 PM
+Last Updated: Monday, September 11th, 2023, 8:52:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
