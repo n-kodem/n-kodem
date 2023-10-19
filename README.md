@@ -4,7 +4,6 @@
 
 ## I'm a Student!!
 
-- 🔭 I'm actually working on pixel like game called "color wars"!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goal: Reach 1000 Commits
