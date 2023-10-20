@@ -110,14 +110,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
-2. ⭐ Starred [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy)
-3. ⭐ Starred [searxng/searxng](https://github.com/searxng/searxng)
-4. 📔 Created new repository [n-kodem/one-click-hugo-cms](https://github.com/n-kodem/one-click-hugo-cms)
+1. ⭐ Starred [libratbag/piper](https://github.com/libratbag/piper)
+2. ⭐ Starred [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
+3. ⭐ Starred [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy)
+4. ⭐ Starred [searxng/searxng](https://github.com/searxng/searxng)
 5. ⭐ Starred [abhijithwarrier/PythonChatGPT](https://github.com/abhijithwarrier/PythonChatGPT)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 20th, 2023, 9:05:49 PM
+Last Updated: Friday, October 20th, 2023, 9:16:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
