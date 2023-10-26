@@ -110,14 +110,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next)
-2. ⭐ Starred [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
-3. ⭐ Starred [libratbag/piper](https://github.com/libratbag/piper)
-4. ⭐ Starred [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
-5. ⭐ Starred [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy)
+1. ⭐ Starred [ploopyco/mouse](https://github.com/ploopyco/mouse)
+2. ⭐ Starred [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next)
+3. ⭐ Starred [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
+4. ⭐ Starred [libratbag/piper](https://github.com/libratbag/piper)
+5. ⭐ Starred [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 26th, 2023, 12:24:48 PM
+Last Updated: Thursday, October 26th, 2023, 12:46:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
