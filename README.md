@@ -117,7 +117,7 @@
 5. ⭐ Starred [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 15th, 2023, 1:35:25 PM
+Last Updated: Wednesday, November 15th, 2023, 1:41:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
