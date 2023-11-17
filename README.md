@@ -117,7 +117,7 @@
 5. ⭐ Starred [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 17th, 2023, 9:40:15 AM
+Last Updated: Friday, November 17th, 2023, 9:46:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
