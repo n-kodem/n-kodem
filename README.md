@@ -110,14 +110,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Brendan-Kirtlan/Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode)
-2. ⭐ Starred [bytebase/bytebase](https://github.com/bytebase/bytebase)
-3. ⭐ Starred [jmorganca/ollama](https://github.com/jmorganca/ollama)
-4. ⭐ Starred [ploopyco/mouse](https://github.com/ploopyco/mouse)
-5. ⭐ Starred [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next)
+1. ⭐ Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)
+2. ⭐ Starred [Alex313031/thorium](https://github.com/Alex313031/thorium)
+3. ⭐ Starred [Brendan-Kirtlan/Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode)
+4. ⭐ Starred [bytebase/bytebase](https://github.com/bytebase/bytebase)
+5. ⭐ Starred [jmorganca/ollama](https://github.com/jmorganca/ollama)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 20th, 2023, 9:03:15 PM
+Last Updated: Monday, November 20th, 2023, 9:16:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
