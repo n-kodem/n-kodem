@@ -117,7 +117,7 @@
 5. ⭐ Starred [jmorganca/ollama](https://github.com/jmorganca/ollama)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 28th, 2023, 7:16:54 PM
+Last Updated: Tuesday, November 28th, 2023, 7:23:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
