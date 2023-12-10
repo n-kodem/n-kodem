@@ -110,14 +110,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)
-2. ⭐ Starred [Alex313031/thorium](https://github.com/Alex313031/thorium)
-3. ⭐ Starred [Brendan-Kirtlan/Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode)
-4. ⭐ Starred [bytebase/bytebase](https://github.com/bytebase/bytebase)
-5. ⭐ Starred [jmorganca/ollama](https://github.com/jmorganca/ollama)
+1. ⭐ Starred [star-history/star-history](https://github.com/star-history/star-history)
+2. ⭐ Starred [MicrocontrollersDev/Alternatives](https://github.com/MicrocontrollersDev/Alternatives)
+3. ⭐ Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)
+4. ⭐ Starred [Alex313031/thorium](https://github.com/Alex313031/thorium)
+5. ⭐ Starred [Brendan-Kirtlan/Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 10th, 2023, 1:59:08 PM
+Last Updated: Sunday, December 10th, 2023, 2:11:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
