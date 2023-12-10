@@ -110,14 +110,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [star-history/star-history](https://github.com/star-history/star-history)
-2. ⭐ Starred [MicrocontrollersDev/Alternatives](https://github.com/MicrocontrollersDev/Alternatives)
-3. ⭐ Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)
-4. ⭐ Starred [Alex313031/thorium](https://github.com/Alex313031/thorium)
-5. ⭐ Starred [Brendan-Kirtlan/Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode)
+1. 📔 Created new repository [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+2. ⭐ Starred [star-history/star-history](https://github.com/star-history/star-history)
+3. ⭐ Starred [MicrocontrollersDev/Alternatives](https://github.com/MicrocontrollersDev/Alternatives)
+4. ⭐ Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)
+5. ⭐ Starred [Alex313031/thorium](https://github.com/Alex313031/thorium)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 10th, 2023, 3:19:40 PM
+Last Updated: Sunday, December 10th, 2023, 3:26:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
