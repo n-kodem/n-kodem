@@ -117,7 +117,7 @@
 5. ⭐ Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 16th, 2023, 3:08:17 PM
+Last Updated: Saturday, December 16th, 2023, 3:19:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
