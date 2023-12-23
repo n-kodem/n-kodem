@@ -117,7 +117,7 @@
 5. ⭐ Starred [MicrocontrollersDev/Alternatives](https://github.com/MicrocontrollersDev/Alternatives)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 23rd, 2023, 10:28:33 PM
+Last Updated: Saturday, December 23rd, 2023, 10:35:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
