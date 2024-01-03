@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goal: Reach 1000 Commits
+- 🥅 2024 Goal: Reach 1000 Commits
 - 🤡 Fun fact: I have no live
 
 <center>
