@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server)
-2. ⭐ Starred [rdbo/sigma-linux](https://github.com/rdbo/sigma-linux)
-3. ⭐ Starred [cristianzsh/forensictools](https://github.com/cristianzsh/forensictools)
-4. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
-5. 🤝 Became collaborator on [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+1. ⭐ Starred [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
+2. ⭐ Starred [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
+3. ⭐ Starred [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server)
+4. ⭐ Starred [rdbo/sigma-linux](https://github.com/rdbo/sigma-linux)
+5. ⭐ Starred [cristianzsh/forensictools](https://github.com/cristianzsh/forensictools)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 31st, 2024, 8:55:31 PM
+Last Updated: Wednesday, January 31st, 2024, 9:08:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
