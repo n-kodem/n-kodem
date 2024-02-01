@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
-2. ⭐ Starred [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
-3. ⭐ Starred [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server)
-4. ⭐ Starred [rdbo/sigma-linux](https://github.com/rdbo/sigma-linux)
-5. ⭐ Starred [cristianzsh/forensictools](https://github.com/cristianzsh/forensictools)
+1. ⭐ Starred [ekzhang/bore](https://github.com/ekzhang/bore)
+2. ⭐ Starred [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
+3. ⭐ Starred [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
+4. ⭐ Starred [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server)
+5. ⭐ Starred [rdbo/sigma-linux](https://github.com/rdbo/sigma-linux)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 1st, 2024, 9:54:55 PM
+Last Updated: Thursday, February 1st, 2024, 10:07:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
