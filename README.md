@@ -116,7 +116,7 @@
 5. ⭐ Starred [rdbo/sigma-linux](https://github.com/rdbo/sigma-linux)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 1st, 2024, 11:07:29 PM
+Last Updated: Thursday, February 1st, 2024, 11:19:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
