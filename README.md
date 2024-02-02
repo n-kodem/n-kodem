@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ekzhang/bore](https://github.com/ekzhang/bore)
-2. ⭐ Starred [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
-3. ⭐ Starred [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
-4. ⭐ Starred [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server)
-5. ⭐ Starred [rdbo/sigma-linux](https://github.com/rdbo/sigma-linux)
+1. ⭐ Starred [nothub/mrpack-install](https://github.com/nothub/mrpack-install)
+2. ⭐ Starred [ekzhang/bore](https://github.com/ekzhang/bore)
+3. ⭐ Starred [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
+4. ⭐ Starred [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
+5. ⭐ Starred [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 1st, 2024, 11:58:04 PM
+Last Updated: Friday, February 2nd, 2024, 12:53:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
