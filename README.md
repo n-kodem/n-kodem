@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nothub/mrpack-install](https://github.com/nothub/mrpack-install)
-2. ⭐ Starred [ekzhang/bore](https://github.com/ekzhang/bore)
-3. ⭐ Starred [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
-4. ⭐ Starred [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
-5. ⭐ Starred [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server)
+1. ⭐ Starred [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11)
+2. ⭐ Starred [nothub/mrpack-install](https://github.com/nothub/mrpack-install)
+3. ⭐ Starred [ekzhang/bore](https://github.com/ekzhang/bore)
+4. ⭐ Starred [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
+5. ⭐ Starred [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 5th, 2024, 12:43:14 AM
+Last Updated: Monday, February 5th, 2024, 1:39:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
