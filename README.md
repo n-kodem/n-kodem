@@ -116,7 +116,7 @@
 5. ⭐ Starred [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 6th, 2024, 2:09:30 PM
+Last Updated: Tuesday, February 6th, 2024, 2:23:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
