@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [feathericons/feather](https://github.com/feathericons/feather)
-2. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
-3. ⭐ Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
-4. ⭐ Starred [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11)
-5. ⭐ Starred [nothub/mrpack-install](https://github.com/nothub/mrpack-install)
+1. ⭐ Starred [threat9/routersploit](https://github.com/threat9/routersploit)
+2. ⭐ Starred [feathericons/feather](https://github.com/feathericons/feather)
+3. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
+4. ⭐ Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
+5. ⭐ Starred [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 10th, 2024, 12:00:34 PM
+Last Updated: Saturday, February 10th, 2024, 12:26:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
