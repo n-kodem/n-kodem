@@ -116,7 +116,7 @@
 5. ⭐ Starred [nothub/mrpack-install](https://github.com/nothub/mrpack-install)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 10th, 2024, 3:14:16 AM
+Last Updated: Saturday, February 10th, 2024, 3:23:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
