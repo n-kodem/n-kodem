@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [Home](https://github.com/n-kodem/ure-database-project/wiki/Home) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
-2. ⭐ Starred [threat9/routersploit](https://github.com/threat9/routersploit)
-3. ⭐ Starred [feathericons/feather](https://github.com/feathericons/feather)
-4. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
-5. ⭐ Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
+1. 📖 Created new wiki page [faq](https://github.com/n-kodem/ure-database-project/wiki/faq) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+2. 📖 Created new wiki page [Home](https://github.com/n-kodem/ure-database-project/wiki/Home) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+3. ⭐ Starred [threat9/routersploit](https://github.com/threat9/routersploit)
+4. ⭐ Starred [feathericons/feather](https://github.com/feathericons/feather)
+5. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 11th, 2024, 11:23:09 AM
+Last Updated: Sunday, February 11th, 2024, 11:29:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
