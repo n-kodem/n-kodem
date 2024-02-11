@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [threat9/routersploit](https://github.com/threat9/routersploit)
-2. ⭐ Starred [feathericons/feather](https://github.com/feathericons/feather)
-3. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
-4. ⭐ Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
-5. ⭐ Starred [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11)
+1. 📖 Created new wiki page [Home](https://github.com/n-kodem/ure-database-project/wiki/Home) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+2. ⭐ Starred [threat9/routersploit](https://github.com/threat9/routersploit)
+3. ⭐ Starred [feathericons/feather](https://github.com/feathericons/feather)
+4. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
+5. ⭐ Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 11th, 2024, 11:09:25 AM
+Last Updated: Sunday, February 11th, 2024, 11:16:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
