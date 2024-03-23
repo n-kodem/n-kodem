@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
-2. 📖 Created new wiki page [Procedury](https://github.com/n-kodem/ure-database-project/wiki/Procedury) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
-3. 📖 Created new wiki page [Triggery](https://github.com/n-kodem/ure-database-project/wiki/Triggery) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
-4. 📖 Created new wiki page [Widoki](https://github.com/n-kodem/ure-database-project/wiki/Widoki) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
-5. 📖 Created new wiki page [faq](https://github.com/n-kodem/ure-database-project/wiki/faq) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+1. 📖 Created new wiki page [Źródła](https://github.com/n-kodem/ure-database-project/wiki/%C5%B9r%C3%B3d%C5%82a) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+2. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
+3. 📖 Created new wiki page [Procedury](https://github.com/n-kodem/ure-database-project/wiki/Procedury) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+4. 📖 Created new wiki page [Triggery](https://github.com/n-kodem/ure-database-project/wiki/Triggery) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+5. 📖 Created new wiki page [Widoki](https://github.com/n-kodem/ure-database-project/wiki/Widoki) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 23rd, 2024, 5:55:11 PM
+Last Updated: Saturday, March 23rd, 2024, 6:07:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
