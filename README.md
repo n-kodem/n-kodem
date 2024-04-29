@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
-2. 📖 Created new wiki page [Eventy](https://github.com/n-kodem/ure-database-project/wiki/Eventy) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
-3. 📖 Created new wiki page [Funkcje](https://github.com/n-kodem/ure-database-project/wiki/Funkcje) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
-4. 📖 Created new wiki page [Źródła](https://github.com/n-kodem/ure-database-project/wiki/%C5%B9r%C3%B3d%C5%82a) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
-5. ⭐ Starred [HeyPuter/puter](https://github.com/HeyPuter/puter)
+1. ⭐ Starred [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
+2. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
+3. 📖 Created new wiki page [Eventy](https://github.com/n-kodem/ure-database-project/wiki/Eventy) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+4. 📖 Created new wiki page [Funkcje](https://github.com/n-kodem/ure-database-project/wiki/Funkcje) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+5. 📖 Created new wiki page [Źródła](https://github.com/n-kodem/ure-database-project/wiki/%C5%B9r%C3%B3d%C5%82a) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 29th, 2024, 11:31:32 AM
+Last Updated: Monday, April 29th, 2024, 11:37:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
