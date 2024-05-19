@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
-2. ⭐ Starred [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
-3. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
-4. 📖 Created new wiki page [Eventy](https://github.com/n-kodem/ure-database-project/wiki/Eventy) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
-5. 📖 Created new wiki page [Funkcje](https://github.com/n-kodem/ure-database-project/wiki/Funkcje) in [n-kodem/ure-database-project](https://github.com/n-kodem/ure-database-project)
+1. ⭐ Starred [kmonad/kmonad](https://github.com/kmonad/kmonad)
+2. ⭐ Starred [david-janssen/kmonad](https://github.com/david-janssen/kmonad)
+3. ⭐ Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
+4. ⭐ Starred [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
+5. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 19th, 2024, 1:20:46 PM
+Last Updated: Sunday, May 19th, 2024, 1:27:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
