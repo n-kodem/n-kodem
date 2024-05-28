@@ -116,7 +116,7 @@
 5. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 28th, 2024, 12:20:47 PM
+Last Updated: Tuesday, May 28th, 2024, 12:46:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
