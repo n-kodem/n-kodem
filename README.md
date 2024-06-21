@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
-2. ⭐ Starred [kmonad/kmonad](https://github.com/kmonad/kmonad)
-3. ⭐ Starred [david-janssen/kmonad](https://github.com/david-janssen/kmonad)
-4. ⭐ Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
-5. ⭐ Starred [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
+1. ⭐ Starred [janhq/jan](https://github.com/janhq/jan)
+2. ⭐ Starred [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
+3. ⭐ Starred [kmonad/kmonad](https://github.com/kmonad/kmonad)
+4. ⭐ Starred [david-janssen/kmonad](https://github.com/david-janssen/kmonad)
+5. ⭐ Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 21st, 2024, 3:18:50 AM
+Last Updated: Friday, June 21st, 2024, 3:31:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
