@@ -116,7 +116,7 @@
 5. ⭐ Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 24th, 2024, 1:00:13 PM
+Last Updated: Monday, June 24th, 2024, 1:18:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
