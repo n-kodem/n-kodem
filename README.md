@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [n-kodem/data-cloud](https://github.com/n-kodem/data-cloud)
-2. 📔 Created new repository [n-kodem/data-cloud](https://github.com/n-kodem/data-cloud)
-3. ⭐ Starred [janhq/jan](https://github.com/janhq/jan)
-4. ⭐ Starred [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
-5. ⭐ Starred [kmonad/kmonad](https://github.com/kmonad/kmonad)
+1. ⭐ Starred [ronnywang/pdf-table-extractor](https://github.com/ronnywang/pdf-table-extractor)
+2. 🤝 Became collaborator on [n-kodem/data-cloud](https://github.com/n-kodem/data-cloud)
+3. 📔 Created new repository [n-kodem/data-cloud](https://github.com/n-kodem/data-cloud)
+4. ⭐ Starred [janhq/jan](https://github.com/janhq/jan)
+5. ⭐ Starred [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 5th, 2024, 10:54:29 PM
+Last Updated: Friday, July 5th, 2024, 11:07:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
