@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout)
-2. ⭐ Starred [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
-3. ⭐ Starred [bee-san/pyWhat](https://github.com/bee-san/pyWhat)
-4. ⭐ Starred [daybrush/moveable](https://github.com/daybrush/moveable)
-5. ⭐ Starred [ronnywang/pdf-table-extractor](https://github.com/ronnywang/pdf-table-extractor)
+1. ⭐ Starred [glromeo/electron-goldenlayout](https://github.com/glromeo/electron-goldenlayout)
+2. ⭐ Starred [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout)
+3. ⭐ Starred [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
+4. ⭐ Starred [bee-san/pyWhat](https://github.com/bee-san/pyWhat)
+5. ⭐ Starred [daybrush/moveable](https://github.com/daybrush/moveable)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 7th, 2024, 10:06:25 PM
+Last Updated: Wednesday, August 7th, 2024, 10:24:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
