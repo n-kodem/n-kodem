@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [glromeo/electron-goldenlayout](https://github.com/glromeo/electron-goldenlayout)
-2. ⭐ Starred [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout)
-3. ⭐ Starred [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
-4. ⭐ Starred [bee-san/pyWhat](https://github.com/bee-san/pyWhat)
-5. ⭐ Starred [daybrush/moveable](https://github.com/daybrush/moveable)
+1. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+2. ⭐ Starred [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input)
+3. ⭐ Starred [glromeo/electron-goldenlayout](https://github.com/glromeo/electron-goldenlayout)
+4. ⭐ Starred [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout)
+5. ⭐ Starred [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 12th, 2024, 4:38:42 AM
+Last Updated: Monday, August 12th, 2024, 4:45:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
