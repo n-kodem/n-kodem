@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
-2. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-3. ⭐ Starred [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input)
-4. ⭐ Starred [glromeo/electron-goldenlayout](https://github.com/glromeo/electron-goldenlayout)
-5. ⭐ Starred [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout)
+1. ⭐ Starred [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
+2. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
+3. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+4. ⭐ Starred [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input)
+5. ⭐ Starred [glromeo/electron-goldenlayout](https://github.com/glromeo/electron-goldenlayout)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 20th, 2024, 1:08:39 AM
+Last Updated: Tuesday, August 20th, 2024, 2:11:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
