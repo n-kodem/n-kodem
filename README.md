@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons)
-2. ⭐ Starred [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
-3. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
-4. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-5. ⭐ Starred [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input)
+1. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
+2. ⭐ Starred [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons)
+3. ⭐ Starred [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
+4. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
+5. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 22nd, 2024, 1:13:42 AM
+Last Updated: Sunday, September 22nd, 2024, 2:34:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
