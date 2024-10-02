@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
-2. ⭐ Starred [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons)
-3. ⭐ Starred [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
-4. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
-5. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+1. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+2. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
+3. ⭐ Starred [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons)
+4. ⭐ Starred [black-forest-labs/flux](https://github.com/black-forest-labs/flux)
+5. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 2nd, 2024, 12:34:06 AM
+Last Updated: Wednesday, October 2nd, 2024, 2:04:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
