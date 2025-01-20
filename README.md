@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [renpenguin/display3d](https://github.com/renpenguin/display3d)
-2. ⭐ Starred [lnmangione/Halite-III](https://github.com/lnmangione/Halite-III)
-3. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
+1. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
+2. ⭐ Starred [renpenguin/display3d](https://github.com/renpenguin/display3d)
+3. ⭐ Starred [lnmangione/Halite-III](https://github.com/lnmangione/Halite-III)
 4. ⭐ Starred [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons)
 5. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 20th, 2025, 12:43:31 AM
+Last Updated: Monday, January 20th, 2025, 2:05:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
