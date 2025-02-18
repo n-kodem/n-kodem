@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Kseroten1/women_find](https://github.com/Kseroten1/women_find)
-2. ⭐ Starred [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch)
-3. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
-4. ⭐ Starred [renpenguin/display3d](https://github.com/renpenguin/display3d)
-5. ⭐ Starred [lnmangione/Halite-III](https://github.com/lnmangione/Halite-III)
+1. ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+2. ⭐ Starred [daybrush/selecto](https://github.com/daybrush/selecto)
+3. ⭐ Starred [Kseroten1/women_find](https://github.com/Kseroten1/women_find)
+4. ⭐ Starred [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch)
+5. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 18th, 2025, 1:30:56 PM
+Last Updated: Tuesday, February 18th, 2025, 1:40:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
