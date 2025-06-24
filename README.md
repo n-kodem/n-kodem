@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
-2. ⭐ Starred [plodah/ploopy_viamenus](https://github.com/plodah/ploopy_viamenus)
+1. ⭐ Starred [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io)
+2. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
 3. ⭐ Starred [Kseroten1/women_find](https://github.com/Kseroten1/women_find)
 4. ⭐ Starred [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch)
 5. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 24th, 2025, 11:41:21 AM
+Last Updated: Tuesday, June 24th, 2025, 11:47:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
