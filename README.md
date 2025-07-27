@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io)
+1. ⭐ Starred [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)
 2. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
 3. ⭐ Starred [Kseroten1/women_find](https://github.com/Kseroten1/women_find)
 4. ⭐ Starred [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch)
 5. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 27th, 2025, 3:28:25 AM
+Last Updated: Sunday, July 27th, 2025, 4:28:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
