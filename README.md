@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+1. ⭐ Starred [V3lectronics/SPIRIT](https://github.com/V3lectronics/SPIRIT)
 2. ⭐ Starred [p2r3/bareiron](https://github.com/p2r3/bareiron)
 3. ⭐ Starred [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast)
 4. ⭐ Starred [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch)
 5. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 28th, 2025, 3:16:17 PM
+Last Updated: Sunday, December 28th, 2025, 3:32:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
