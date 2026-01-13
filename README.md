@@ -109,14 +109,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [V3lectronics/SPIRIT](https://github.com/V3lectronics/SPIRIT)
-2. ⭐ Starred [p2r3/bareiron](https://github.com/p2r3/bareiron)
+1. 🤝 Became collaborator on [amatsagu/amphr-demo](https://github.com/amatsagu/amphr-demo)
+2. ⭐ Starred [V3lectronics/SPIRIT](https://github.com/V3lectronics/SPIRIT)
 3. ⭐ Starred [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast)
 4. ⭐ Starred [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch)
 5. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 13th, 2026, 11:32:54 AM
+Last Updated: Tuesday, January 13th, 2026, 11:44:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
