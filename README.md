@@ -116,7 +116,7 @@
 5. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 5th, 2026, 8:32:43 AM
+Last Updated: Tuesday, May 5th, 2026, 10:19:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
