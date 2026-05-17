@@ -13,8 +13,8 @@ I am a software development student with a strong interest in building cross-pla
 ### 📊 GitHub Analytics
 
 <div align="center">
-  ![GitHub Stats Card](https://ghstats.dev/api/card?username=n-kodem)
-  ![Top Languages](https://ghstats.dev/api/langs?username=n-kodem)
+  <img src="https://ghstats.dev/api/card?username=n-kodem" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=n-kodem" alt="Top Languages" />
 </div>
 
 <br />
