@@ -13,8 +13,8 @@ I am a software development student with a strong interest in building cross-pla
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n-kodem&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kodem&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=n-kodem)
+  ![Top Languages](https://ghstats.dev/api/langs?username=n-kodem)
 </div>
 
 <br />
