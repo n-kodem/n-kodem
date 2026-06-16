@@ -59,14 +59,14 @@ I am a software development student with a strong interest in building cross-pla
   <summary>⚡ Recent GitHub Activity <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end--></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ymsniper/KTO](https://github.com/Ymsniper/KTO)
-2. ⭐ Starred [soapantelope/mindcraft](https://github.com/soapantelope/mindcraft)
-3. ⭐ Starred [mfactory-osaka/ESPTimeCast](https://github.com/mfactory-osaka/ESPTimeCast)
+1. ⭐ Starred [ninsent/Ore-UI-theme-pack](https://github.com/ninsent/Ore-UI-theme-pack)
+2. ⭐ Starred [Ymsniper/KTO](https://github.com/Ymsniper/KTO)
+3. ⭐ Starred [soapantelope/mindcraft](https://github.com/soapantelope/mindcraft)
 4. ⭐ Starred [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch)
 5. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 16th, 2026, 10:22:38 PM
+Last Updated: Tuesday, June 16th, 2026, 11:50:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
