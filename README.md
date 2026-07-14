@@ -59,14 +59,14 @@ I am a software development student with a strong interest in building cross-pla
   <summary>⚡ Recent GitHub Activity <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end--></summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ZenoSoftwareDev/NetworkMaster](https://github.com/ZenoSoftwareDev/NetworkMaster)
-2. ⭐ Starred [Ragalikx/steam-bridge-mc](https://github.com/Ragalikx/steam-bridge-mc)
-3. ⭐ Starred [Nai64/Nai64Patches](https://github.com/Nai64/Nai64Patches)
-4. ⭐ Starred [ninsent/Ore-UI-theme-pack](https://github.com/ninsent/Ore-UI-theme-pack)
-5. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
+1. 🤝 Became collaborator on [amatsagu/essentia-2-modpack](https://github.com/amatsagu/essentia-2-modpack)
+2. ⭐ Starred [ZenoSoftwareDev/NetworkMaster](https://github.com/ZenoSoftwareDev/NetworkMaster)
+3. ⭐ Starred [Ragalikx/steam-bridge-mc](https://github.com/Ragalikx/steam-bridge-mc)
+4. ⭐ Starred [Nai64/Nai64Patches](https://github.com/Nai64/Nai64Patches)
+5. ⭐ Starred [ninsent/Ore-UI-theme-pack](https://github.com/ninsent/Ore-UI-theme-pack)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 14th, 2026, 10:03:35 PM
+Last Updated: Tuesday, July 14th, 2026, 11:04:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
