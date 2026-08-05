@@ -61,12 +61,12 @@ I am a software development student with a strong interest in building cross-pla
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV)
 2. 🤝 Became collaborator on [amatsagu/essentia-2-modpack](https://github.com/amatsagu/essentia-2-modpack)
-3. ⭐ Starred [ZenoSoftwareDev/NetworkMaster](https://github.com/ZenoSoftwareDev/NetworkMaster)
+3. ⭐ Starred [Ragalikx/steam-bridge-mc](https://github.com/Ragalikx/steam-bridge-mc)
 4. ⭐ Starred [Ragalikx/steam-bridge-mc](https://github.com/Ragalikx/steam-bridge-mc)
 5. ⭐ Starred [Nai64/Nai64Patches](https://github.com/Nai64/Nai64Patches)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 5th, 2026, 3:25:33 PM
+Last Updated: Wednesday, August 5th, 2026, 4:57:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
